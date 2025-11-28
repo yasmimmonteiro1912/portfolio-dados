@@ -13,7 +13,12 @@ Sou graduanda em Física pela UFRJ e, nos últimos meses, tenho me dedicado ao d
 
 ## 🚀 Projetos
 
-🔹 *Em breve adicionarei meus primeiros projetos completos aqui.*  
+🔹  Análise de Transações – Power BI & Python
+Dashboard criado para analisar movimentações financeiras, volume mensal,
+distribuição de valores, desempenho por agência e indicadores estratégicos.
+Inclui tratamento de dados, criação de medidas DAX e visualizações avançadas.
+
+👉 [Acesse o projeto](PowerBI/Projeto-Analise-Transacoes)
 
 ---
 
