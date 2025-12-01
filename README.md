@@ -24,7 +24,7 @@ Inclui tratamento de dados, criação de medidas DAX e visualizações avançada
 Projeto desenvolvido em Python com foco em limpeza, manipulação e análise exploratória de dados.  
 Inclui uso de bibliotecas como Pandas, NumPy e Matplotlib, além de scripts automatizados para organização e padronização dos dados.
 
-👉 **[Acesse o projeto em Python](Python/Projeto-Analise-Dados)**  
+👉 **[Acesse o projeto em Python](Python/Analise-Transacoes)**  
 
 ---
 
