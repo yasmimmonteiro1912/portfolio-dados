@@ -26,6 +26,10 @@ Inclui uso de bibliotecas como Pandas, NumPy e Matplotlib, além de scripts auto
 
 👉 **[Acesse o projeto](Python/Analise_Transacoes)**  
 
+🔹 **Northwind - Análise Comercial com SQL**
+  Projeto de análise exploratória e estratégica utilizando o banco de dados Northwind. Focado na extração de KPIs de negócio como faturamento líquido, ticket médio e performance de estoque através de consultas complexas, JOINS e subqueries.
+
+  👉 [Acesse o projeto](https://github.com/yasmimmonteiro1912/portfolio-dados/tree/main/SQL/Northwind)
 ---
 
 ## 📬 Contato
