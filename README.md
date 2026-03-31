@@ -1,6 +1,6 @@
 # 📊 Portfólio de Dados — Yasmim Alves
 
-Bem-vindo(a)! Este repositório reúne meus projetos e estudos nas áreas de **Análise de Dados**, **Ciência de Dados** e **Business Intelligence**.
+Bem-vindo(a)! Este repositório reúne meus projetos e estudos nas áreas de **Análise de Dados**, **Engenharia de Dados** e **Business Intelligence**.
 
 Sou graduanda em Física pela UFRJ e, nos últimos meses, tenho me dedicado ao desenvolvimento de habilidades técnicas e analíticas para trabalhar com dados. Aqui você encontrará projetos utilizando:
 
